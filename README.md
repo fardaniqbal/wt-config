@@ -1,5 +1,6 @@
-My personal settings for Windows Terminal.  The files in this repo go
-in the following directory for Windows Terminal to recognize it:
+My personal settings for [Windows
+Terminal](https://github.com/microsoft/terminal).  The files in this repo go in
+the following directory for Windows Terminal to recognize it:
 
     %USERPROFILE%\AppData\Local\Packages\Microsoft.WindowsTerminal_<RANDOMNUMBER>\LocalState
 
