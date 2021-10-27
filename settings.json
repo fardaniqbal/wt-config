@@ -32,7 +32,7 @@
                     "window",
                     "taskbar"
                 ],
-                "colorScheme": "Dracula",
+                "colorScheme": "Solarized Dark",
                 "commandline": "powershell.exe",
                 "cursorShape": "filledBox",
                 "experimental.retroTerminalEffect": false,
@@ -44,13 +44,15 @@
                 "hidden": false,
                 "name": "Windows PowerShell",
                 "padding": "1",
+                "scrollbarState": "hidden",
                 "useAcrylic": true
             },
             {
                 "commandline": "cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
-                "name": "Command Prompt"
+                "name": "Command Prompt",
+                "scrollbarState": "hidden"
             },
             {
                 "acrylicOpacity": 0.75,
@@ -59,7 +61,7 @@
                     "window",
                     "taskbar"
                 ],
-                "colorScheme": "Dracula",
+                "colorScheme": "Solarized Dark",
                 "cursorShape": "filledBox",
                 "font": 
                 {
@@ -70,6 +72,7 @@
                 "hidden": false,
                 "name": "Ubuntu",
                 "padding": "1",
+                "scrollbarState": "hidden",
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "\\\\wsl$\\Ubuntu\\home\\fiqbal",
                 "useAcrylic": true
@@ -78,6 +81,7 @@
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": false,
                 "name": "Azure Cloud Shell",
+                "scrollbarState": "hidden",
                 "source": "Windows.Terminal.Azure"
             }
         ]
