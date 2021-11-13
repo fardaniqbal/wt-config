@@ -26,7 +26,7 @@
         "list": 
         [
             {
-                "acrylicOpacity": 0.75,
+                "acrylicOpacity": 0.85,
                 "bellStyle": 
                 [
                     "window",
@@ -55,7 +55,7 @@
                 "scrollbarState": "hidden"
             },
             {
-                "acrylicOpacity": 0.75,
+                "acrylicOpacity": 0.85,
                 "bellStyle": 
                 [
                     "window",
