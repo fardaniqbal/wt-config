@@ -19,14 +19,15 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
-    "initialCols": 90,
+    "initialCols": 80,
+    "initialRows": 24,
     "profiles": 
     {
         "defaults": {},
         "list": 
         [
             {
-                "acrylicOpacity": 0.85,
+                "acrylicOpacity": 0.84999999999999998,
                 "bellStyle": 
                 [
                     "window",
@@ -55,7 +56,7 @@
                 "scrollbarState": "hidden"
             },
             {
-                "acrylicOpacity": 0.85,
+                "acrylicOpacity": 0.84999999999999998,
                 "bellStyle": 
                 [
                     "window",
