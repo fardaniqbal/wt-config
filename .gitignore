@@ -1,1 +1,3 @@
-settings.json.*.backup
+/settings.json.*.backup
+/state.json
+/elevated-state.json
