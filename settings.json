@@ -135,6 +135,7 @@
                 "source": "Git"
             },
             {
+                "colorScheme": "Ubuntu",
                 "font": 
                 {
                     "face": "MesloLGM Nerd Font",
@@ -143,6 +144,7 @@
                 "guid": "{cbcda8a4-95d2-50bf-956b-07cc9843b272}",
                 "hidden": false,
                 "name": "Ubuntu-26.04",
+                "padding": "0",
                 "scrollbarState": "hidden",
                 "source": "Microsoft.WSL"
             }
